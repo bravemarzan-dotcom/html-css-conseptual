@@ -18,14 +18,14 @@
 
 
 .container{
-    height: 500px;
+    height: 400px;
     width: 60%;
     /* margin-left: auto;
     margin-right: auto; */
     margin: 60px auto;
    background: linear-gradient(45deg, rgb(68, 20, 28), rgb(2, 1, 1) ,rgb(158, 44, 44));
     padding: 60px;
-    border: solid black;
+    border: solid rgb(190, 171, 171);
     border-radius: 20px;
 }
 .container p {
@@ -51,7 +51,7 @@
 }
 
 .img-container img {
-    width: 500px;
+    width: 25;
     height: 300px;
     clip-path: inset(15% 15% 15% 15% round 10% 10% 10% 10%);
 }
@@ -60,7 +60,7 @@
     margin-bottom: 20px;
 text-align: center;
  font-family: "Manrope", sans-serif;
- font-size: 20px;
+ font-size: 40px;
  font-weight: 800;
 
 
